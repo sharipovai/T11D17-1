@@ -1,7 +1,7 @@
 # T11D17
 The russian version of the task can be found in the repository.
 
-You can find some useful video materials [here](https://edu.21-school.ru/video/selection/062eaa22-bce7-407c-9b9d-e334bb2ad5a2).
+You can find some useful video materials [here](https://edu.21-school.ru/video/selection/37eede35-9204-4e29-a1a3-644b5440f2c0).
 
 ![This day will help you get acquainted with structures and unions in C.](misc/eng/images/day11_door.png)
 
