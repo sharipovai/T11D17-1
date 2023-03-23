@@ -1,8 +1,7 @@
-#include <stdio.h>
 #include "list.h"
+
+#include <stdio.h>
+
 #include "door_struct.h"
 
-int main() {
-
-}
-
+int main() {}
